@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 03 Jul 2025 00:59:44 at https://soho.shadcnuikit.com/chats +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://soho.shadcnuikit.com/chats -O1 "C:\My Web Sites\soho" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:00:10	Error: 	"Bad Request" (400) at link https://soho.shadcnuikit.com/_next/image?url=%2Flogin-cover.jpg&w=3840&q=75 (from https://soho.shadcnuikit.com/login)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 47 links scanned, 45 files written (1421690 bytes overall) [591709 bytes received at 22758 bytes/sec], 1214740 bytes transferred using HTTP compression in 36 files, ratio 28%
+(1 errors, 0 warnings, 0 messages)
